@@ -21,7 +21,6 @@ A full-featured ride-booking web app, built with MongoDB, Express, React, and No
 - Admin dashboard and analytics  
 - Separate codebases for backend and frontend  
 
--->Separate codebases for backend and frontend
 
 ## 🛠 Tech Stack
 **Frontend:** React.js, Axios, Tailwind CSS, Google Maps API
