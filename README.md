@@ -39,6 +39,8 @@ A full-featured ride-booking web app, built with MongoDB, Express, React, and No
 - **Other:** dotenv, express-validator, CORS, Postman (testing)
 
 ---
+<img width="1024" height="1024" alt="Gemini_Generated_Image_sbdiensbdiensbdi" src="https://github.com/user-attachments/assets/66a754fd-102e-4477-bc6b-59bd2b1e1a9a" />
+
 
 ### 📁 Project Structure
 
