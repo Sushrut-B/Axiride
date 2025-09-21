@@ -1,8 +1,48 @@
-# React + Vite
+A full-featured ride-booking web app, built with MongoDB, Express, React, and Node.js. This project covers backend, frontend, user authentication, mapping, ride management, and real-time features.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📚 Table of Contents
+✨ Features
+🛠 Tech Stack
+📁 Project Structure
+⚡ Installation
+🔑 Environment Variables
+▶️ Running the Application
+🔌 API Endpoints
+🗂 Folder Structure
+✨ Features
 
-Currently, two official plugins are available:
+-->User and Captain (Driver) registration/authentication
+-->JWT-based session management
+-->Google Maps integration for location and routes
+-->Real-time ride booking and tracking (Socket.IO)
+-->Profile management for users/captains
+-->RESTful API design (Node/Express)
+-->MongoDB & Mongoose for storage and schema
+-->Admin dashboard and analytics 
+-->Separate codebases for backend and frontend
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack
+-->Frontend: React.js, Axios, Tailwind CSS, Google Maps API
+-->Backend: Node.js, Express.js, Socket.IO, Mongoose
+-->Database: MongoDB Atlas
+-->Authentication: JWT (jsonwebtoken), bcrypt
+-->Other: dotenv, express-validator, CORS, Postman (testing)
+
+📁 Project Structure
+text
+project/
+  backend/
+    controllers/
+    models/
+    routes/
+    services/
+    db/
+    .env
+    server.js
+    package.json
+    README.md
+  frontend/
+    src/
+    public/
+    package.json
+  .gitignore
