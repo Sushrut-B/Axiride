@@ -1,4 +1,4 @@
-# 🚖 Ride Hailing App (MERN Stack)
+# 🚖 AxiRide - Ride Hailing App (MERN Stack)
 
 A full-featured ride-booking web app, built with MongoDB, Express, React, and Node.js. This project covers backend, frontend, user authentication, mapping, ride management, and real-time features.
 
