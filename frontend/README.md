@@ -11,24 +11,26 @@ A full-featured ride-booking web app, built with MongoDB, Express, React, and No
 🗂 Folder Structure
 ✨ Features
 
--->User and Captain (Driver) registration/authentication
--->JWT-based session management
--->Google Maps integration for location and routes
--->Real-time ride booking and tracking (Socket.IO)
--->Profile management for users/captains
--->RESTful API design (Node/Express)
--->MongoDB & Mongoose for storage and schema
--->Admin dashboard and analytics 
+- User and Captain (Driver) registration/authentication  
+- JWT-based session management  
+- Google Maps integration for location and routes  
+- Real-time ride booking and tracking (Socket.IO)  
+- Profile management for users/captains  
+- RESTful API design (Node/Express)  
+- MongoDB & Mongoose for storage and schema  
+- Admin dashboard and analytics  
+- Separate codebases for backend and frontend  
+
 -->Separate codebases for backend and frontend
 
-🛠 Tech Stack
--->Frontend: React.js, Axios, Tailwind CSS, Google Maps API
--->Backend: Node.js, Express.js, Socket.IO, Mongoose
--->Database: MongoDB Atlas
--->Authentication: JWT (jsonwebtoken), bcrypt
--->Other: dotenv, express-validator, CORS, Postman (testing)
+## 🛠 Tech Stack
+**Frontend:** React.js, Axios, Tailwind CSS, Google Maps API
+**Backend:** Node.js, Express.js, Socket.IO, Mongoose
+**Database:** MongoDB Atlas
+**Authentication:** JWT (jsonwebtoken), bcrypt
+**Other:** dotenv, express-validator, CORS, Postman (testing)
 
-📁 Project Structure
+## 📁 Project Structure
 text
 project/
   backend/
